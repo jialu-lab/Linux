@@ -1,2 +1,2 @@
 # Linux
-some note on linux
+some notes on linux
